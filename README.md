@@ -24,3 +24,5 @@ Datasets: The raw and processed datasets used for model training and evaluation.
 # Results
 The Random Forest model achieved a high accuracy of approximately 94% on the test data. The Power BI dashboard provides interactive visualizations to explore the results and gain insights into the factors influencing customer churn.
 - Power BI dashboard to present insights and results
+- ![Screenshot](Customer-Churn-Perdiction/Screenshot.png)
+
