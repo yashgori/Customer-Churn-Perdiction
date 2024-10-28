@@ -1,4 +1,4 @@
-# customer-churn-detection
+# Customer-Churn-Detection
 
 # Overview
 This repository contains the code, research publication, Power BI dashboard, and datasets for the project titled "Predictive Modeling of Customer Churn in the Telecommunication Industry: A Python-Based Approach." The goal of this project is to analyze customer churn using advanced machine learning techniques and provide actionable insights to mitigate churn effectively.
